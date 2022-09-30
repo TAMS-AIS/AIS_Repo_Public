@@ -1,0 +1,8 @@
+Column Name,Description
+Temperature,Star surface temperature in Kelvin
+L,Relative Luminosity
+R,Relative Radius
+A_M,Absolute Magnitude
+Color,Star color
+Spectral_Class,Spectral Class of star
+Type,Purposely ambiguous star type
